@@ -1,16 +1,19 @@
 h1 {
+  font-family: 'Dosis', sans-serif;
   color: #a181c4;
   font-family: 'Saira Extra Condensed', sans-serif;
   font-size: 420;
 
 }
 h2 {
+  font-family: 'Dosis', sans-serif;
   color: #a181c4;
   font-family: 'Saira Extra Condensed', sans-serif;
   font-size: 420;
 
 }
 h3 {
+  font-family: 'Dosis', sans-serif;
   color: #a181c4;
   font-family: 'Saira Extra Condensed', sans-serif;
   font-size: 480;
@@ -27,6 +30,7 @@ border-style: outset;
      width: 480px;
 }
 input[type=text] {
+    font-family: 'Dosis', sans-serif;
     width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -34,9 +38,11 @@ input[type=text] {
     color: white;
 }
 input[type=radio] {
+    font-family: 'Dosis', sans-serif;
     width: -3%;
 }
 input[type=submit] {
+  font-family: 'Dosis', sans-serif;
   background-color:#aba4f2;
   color: white;
 }
