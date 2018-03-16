@@ -1,9 +1,42 @@
 h1 {
-  color: #003399;
+  color: #a181c4;
   font-family: 'Saira Extra Condensed', sans-serif;
-  font-size: 450;
+  font-size: 420;
+
+}
+h2 {
+  color: #a181c4;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 420;
+
+}
+h3 {
+  color: #a181c4;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 480;
 
 }
 body{
-background-color: #aad4ff
+background-color: #cbb3e5;
+border-style: outset;
+ border-width: 33px;
+ border-color: #16cde5;
+}
+#picture {
+  height: 480px;
+     width: 480px;
+}
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: #c9d3e2;
+    color: white;
+}
+input[type=radio] {
+    width: -3%;
+}
+input[type=submit] {
+  background-color:#aba4f2;
+  color: white;
 }
