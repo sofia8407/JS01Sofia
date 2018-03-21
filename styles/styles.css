@@ -1,21 +1,18 @@
 h1 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Alegreya Sans SC', sans-serif;
   color: #a181c4;
-  font-family: 'Saira Extra Condensed', sans-serif;
   font-size: 420;
 
 }
 h2 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Alegreya Sans SC', sans-serif;
   color: #a181c4;
-  font-family: 'Saira Extra Condensed', sans-serif;
   font-size: 420;
 
 }
 h3 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Alegreya Sans SC', sans-serif;
   color: #a181c4;
-  font-family: 'Saira Extra Condensed', sans-serif;
   font-size: 480;
 
 }
@@ -43,3 +40,20 @@ input[type=submit] {
   background-color:#aba4f2;
   color: white;
 }
+table {
+    font-family:'Alegreya Sans SC', sans-serif ;
+    border-collapse: collapse;
+    text
+    width: 50%;
+}
+
+td, th {
+
+    border: 3px solid #111111;
+    text-align: left;
+
+    padding: 8px;
+}
+
+tr:nth-child(1) {
+    background-color: #111111;
