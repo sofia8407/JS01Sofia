@@ -1,29 +1,26 @@
 h1 {
-  font-family: 'Dosis', sans-serif;
-  color: #a181c4;
-  font-family: 'Saira Extra Condensed', sans-serif;
+  color:#ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 420;
 
 }
 h2 {
-  font-family: 'Dosis', sans-serif;
-  color: #a181c4;
-  font-family: 'Saira Extra Condensed', sans-serif;
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 420;
 
 }
 h3 {
-  font-family: 'Dosis', sans-serif;
-  color: #a181c4;
-  font-family: 'Saira Extra Condensed', sans-serif;
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-size: 480;
 
 }
 body{
-background-color: #cbb3e5;
+background-color: #a6a6a6;
 border-style: outset;
- border-width: 33px;
- border-color: #16cde5;
+border-width: 33px;
+border-color: color:#ffffff;
 }
 #picture {
   height: 480px;

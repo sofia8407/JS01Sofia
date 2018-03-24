@@ -1,3 +1,14 @@
-$("#click").click(function(){
-<go to "file:///Users/SofiaBellaSchoepf/Desktop/GitHub/JS01Sofia/index.html%2002">
+window.alert("sometext");
+
+function hide(){
+  $("img").hide();
+}
+function show(){
+$("img").show();
+}
+$("#hide").click( () => {
+hide()
+});
+$("#show").click( () => {
+show()
 });
